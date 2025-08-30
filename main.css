@@ -1,0 +1,46 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+body,
+html {
+	padding-inline: 20px;
+	padding-block: 20px;
+	background-color: #ddd;
+}
+
+.nav {
+	margin-block-end: 20px;
+}
+
+.heading {
+	margin-block-end: 20px;
+	padding-block: 20px;
+	height: 40px;
+}
+
+.description {
+	color: purple;
+	margin-block-start: 50px;
+}
+
+width: Hug (171px) px;
+height: Fixed (48px) px;
+top: 48px;
+left: 1221px;
+gap: 8px;
+opacity: 0px;
+
+color: #fff;
+font-family: Inter;
+font-size: 0.33456rem;
+font-style: normal;
+font-weight: 400;
+line-height: 0.70625rem; /* 211.111% */
+color: var(--website-main-main-text-light-theme, #000e1f);
+font-family: 'Neue Machina';
+font-size: 0.65356rem;
+font-style: normal;
+font-weight: 800;
+line-height: 0.78975rem; /* 120.833% */
